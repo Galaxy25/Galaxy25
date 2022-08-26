@@ -9,4 +9,5 @@ The curren team captain for the Tigard High School OPGC Game Jam 2022-2023
 # Other Platforms
 
 <https://www.linkedin.com/in/nathan-st-john-7a3992236/>
+
 <https://leetcode.com/Galaxy05/>
