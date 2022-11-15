@@ -1,6 +1,6 @@
 # About Me
 
-![Leetcode Stats](https://leetcard.Galaxy05.cool/lapor?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Galaxy05/lapor?ext=heatmap)
 
 I'm a Tigard High School student who likes programming, tech and fencing
 
