@@ -1,10 +1,10 @@
 # About Me
 
-I'm a Tigard High School student who likes programming, tech and fencing
+I'm a Tigard High School student who likes programming, tech, and fencing
 
 I'm passionate about solving problems and learning
 
-The current team captain for the Tigard High School OPGC Game Jam 2022-2023
+I'm the current President of the Tigard High School Game Dev Club competing in OGPC, 2022-2023
 
 ## Other Platforms
 
