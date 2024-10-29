@@ -1,6 +1,6 @@
 # About Me
 
-I'm a freshman Cal Poly Computer Engineering student excited
+I'm a freshman Cal Poly Computer Engineering student excited to try new things!
 
 ## Contact Me
 
@@ -9,6 +9,11 @@ I'm a freshman Cal Poly Computer Engineering student excited
 ## Projects
 
 ### Under Development
+
+LED Wheel Screen
+
+
+Skills: C++, Arduino, Solidworks
 
 ### Completed
 
