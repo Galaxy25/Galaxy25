@@ -73,6 +73,14 @@ System reset is my first game made for the OGPC competition. It's a roguelike fi
 
 **Skills:** Unity, C#
 
+**Coaxial Swerve Drivetrain - Made for the FTC 750 Robotics Team**
+
+The drivetrain is an experimental design made for my robotics team. Most teams use mechanism wheels for movement. However, they have slower acceleration and worse traction. In this design, each wheel rotates independently with a full range of rotation, allowing movement across all directions. The design was put on hold mid-season due to its experimental design, which led to  many unexpected errors.
+
+<img src="Gifs/CoaxialSwerve.gif">
+
+**Skills:** Java, Circuit Design
+
 ## Competitive Programming
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Galaxy05?theme=dark&font=Ubuntu&ext=contest)
