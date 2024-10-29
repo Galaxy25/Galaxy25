@@ -4,7 +4,7 @@ I'm a freshman Cal Poly Computer Engineering student excited
 
 ## Contact Me
 
-<https://www.linkedin.com/in/nathan-st-john-7a3992236/> | nastjohn@calpoly.edu
+<a href="https://www.linkedin.com/in/nathan-st-john-7a3992236/">LinkedIn</a> | <a href="mailto:nastjohn@calpoly.edu">Email</a>
 
 ## Projects
 
