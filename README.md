@@ -47,6 +47,7 @@ A quick project I developed in a couple of hours for Calculus class. I didn't fi
 
 I wanted a fencing mount to practice fencing at home. While there were 3D printable holders, they were for other fencing divisions (Epee, Foil), so I decided to create a 3D mount for Sabre and share it with the fencing community.
 
+<a href="https://www.reddit.com/r/Fencing/comments/wzfokx/a_cad_high_school_project/">Post</a> | <a href="https://github.com/Galaxy25/FencingMount/tree/main">Repo</a>
 
 
 **Skills:** Solidworks
