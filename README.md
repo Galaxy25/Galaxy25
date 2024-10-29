@@ -12,12 +12,17 @@ I'm a freshman Cal Poly Computer Engineering student excited to try new things!
 
 LED Wheel Screen
 
+<img src="Images/LedWheelExample.png">
 
-Skills: C++, Arduino, Solidworks
+(Inspirational image above)
+
+I am currently working on an LED wheel design that can display images when cycling at high speeds. The design works because an LED strip attached to the wheel changes colors based on its position during the wheel's rotation. The position is determined when the wheel passes the fork of the bike, which is caused by the reflection of an IR sensor and a gyroscopic sensor to determine any significant changes in speed before the bike passes the fork.
+
+**Skills:** Arduino, C++, Solidworks
 
 ### Completed
 
-**Doodle Wizard**
+**Doodle Wizard - OPGC Game Jam**
 
 <img src="Gifs/DoodleWizard.gif">
 
