@@ -10,6 +10,8 @@ Currently a member of the Barbell Club, Entrepreneurship Club, and Computer Engi
 
 ## Projects
 
+### Underdevelopment
+
 LED Wheel Screen
 
 <img src="Images/LedWheelExample.png">
