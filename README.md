@@ -1,18 +1,16 @@
 # About Me
 
-I'm a Tigard High School student who likes programming, tech, and fencing
+I'm a freshman Cal Poly Computer Engineering student excited
 
-I'm passionate about solving problems and learning
+## Contact Me
 
-I'm the current President of the Tigard High School Game Dev Club competing in OGPC, 2022-2023
+<https://www.linkedin.com/in/nathan-st-john-7a3992236/> | nastjohn@calpoly.edu
 
-## Other Platforms
+## Projects
 
-<https://www.linkedin.com/in/nathan-st-john-7a3992236/>
+### Under Development
 
-<https://leetcode.com/Galaxy05/>
-
-natestjohn05@gmail.com
+### Completed
 
 ## Competitive Programming
 
