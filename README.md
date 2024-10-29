@@ -51,8 +51,27 @@ I wanted a fencing mount to practice fencing at home. While there were 3D printa
 
 <a href="https://www.reddit.com/r/Fencing/comments/wzfokx/a_cad_high_school_project/">Post</a> | <a href="https://github.com/Galaxy25/FencingMount/tree/main">Repo</a>
 
-
 **Skills:** Solidworks
+
+**Augmentation - OGPC Game Jam**
+
+![](https://tms.ogpc.info/api/attachment/31f77d61-f9a1-43af-9e08-0491555b1109/content?maxwidth=1280&maxheight=1024&bgcolor=white)
+
+Augmentation is a top-down, 2D, action roguelike designed around the convention-breaking principle that leveling up is harmful. Utilize a broad arsenal of weapons to save the world from an evil computer virus that's dead set on taking control of humanity as a whole. Watch out though, don't let yourself get too corrupted… or should you? Inspired by Enter the Gungeon, The Binding of Isaac, and Slay the Spire, Augmentation is packed with thrilling, unique gameplay. I worked heavily on enemy design and item modularity.
+
+<a href="https://tms.ogpc.info/Games/Details/0beea4f3-4e9b-4fd2-97dd-c8b0525949b5">Play</a> | <a href="https://github.com/TigardHighGDC/Augmentation">Repo</a>
+
+**Skills:** Unity, C#, Clang, Project Management
+
+**System Reset - OGPC Game Jam**
+
+![](https://tms.ogpc.info/api/attachment/1184eea2-2377-4f49-8e9c-1a48c9c2d8e3/content?maxwidth=1280&maxheight=1024&bgcolor=white)
+
+System reset is my first game made for the OGPC competition. It's a roguelike first-person shooter that emphasizes its dynamic movement system and self-learning enemy AI. You play as a mercenary who joins forces with rogue robots to combat a computer blight threatening the world.
+
+<a href="https://tms.ogpc.info/Games/Details/2e125445-7d4b-4bce-8568-95dfddb2f226">Play</a> | <a href="https://github.com/TigardHighGDC/SystemReset">Repo</a>
+
+**Skills:** Unity, C#
 
 ## Competitive Programming
 
