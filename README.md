@@ -25,12 +25,20 @@ Doodle Wizard is a third-person magical adventure game where players control Fel
 
 **Skills:** Unity, C#, Clang, Project Management
 
+<a href="https://tms.ogpc.info/Games/Details/7295c811-c989-4d59-9c9a-c522335eb9a5">Play</a> | <a href="https://github.com/TigardHighGDC/WizardGame">Repo</a>
+
+
 **Unit Circle Galaga**
+
 <img src="Gifs/KnockoffGalaga.gif">
 
 A quick project I developed in a couple of hours for Calculus class. I didn't find any good methods online to memorize the unit circle, so I wanted to gamify the memorization process. 
 
 **Skills:** Unity, C#
+
+<a href="https://galaxy25.github.io/UnitCircleGalagaWebsite/">Play</a> | <a href="https://github.com/Galaxy25/UnitCircleGalaga">Repo</a>
+
+
 
 ## Competitive Programming
 
