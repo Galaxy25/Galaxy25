@@ -10,16 +10,6 @@ Currently a member of the Barbell Club, Entrepreneurship Club, and Computer Engi
 
 ## Projects
 
-LED Wheel Screen
-
-<img src="Images/LedWheelExample.png">
-
-(Inspirational image above)
-
-I am currently working on an LED wheel design that can display images when cycling at high speeds. The design works because an LED strip attached to the wheel changes colors based on its position during the wheel's rotation. The position is determined when the wheel passes the fork of the bike, which is caused by the reflection of an IR sensor and a gyroscopic sensor to determine any significant changes in speed before the bike passes the fork.
-
-**Skills:** Arduino, C++, Solidworks
-
 ### Completed
 
 **Doodle Wizard - OPGC Game Jam**
